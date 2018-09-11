@@ -1,0 +1,2 @@
+C:\Users\MOREANO\source\repos\ReposLog\ReposLog\obj\Debug\ReposLog.csprojAssemblyReference.cache
+C:\Users\MOREANO\source\repos\ReposLog\ReposLog\obj\Debug\ReposLog.csproj.CoreCompileInputs.cache

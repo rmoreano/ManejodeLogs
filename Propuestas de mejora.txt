@@ -1,0 +1,16 @@
+Propuesta de mejora
+1.	Utilizar una nomenclatura clara y estándar  en los atributos de la clase, el cual será  la   primera letra “c” de clase  o también puede ser el tipo de dato,  seguido de la palabra indica  el cual tendrá la Primera mayúscula y las demás minúsculas   no debe contener caracteres especiales como “_”
+
+2.	Para los parámetros del constructor  debería ser “_” y el nombre del atributo tratando de mantener un estándar solo para el constructor
+
+3.	Poner un nombre claro para  los parámetros de los métodos el cual  sea fácil de interpretar por cualquiera
+Ejemplo Mensaje,ActivarMensaje,ActivarAdvertencia
+
+4.	Debe de invocar las librerías a utilizar en el inicio de la clase 
+ 	using System.Data.SqlClient;
+using System.Configuration;
+
+5.	Utilizar Métodos y funciones  para ordenar y separar el código según su acción
+6.	Asignar una variable con su tipo de dato respectivo a la ruta del archivo ( se asigna una variable a algo repetitivo constantemente)
+7.	Consolidar los If para todo los tipos 
+8.	Mejora seria mejor enviarle un Tipo  para identificar que es advertencia,error o mensaje y se utilizaría un switch
